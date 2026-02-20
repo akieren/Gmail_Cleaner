@@ -1,0 +1,7 @@
+# Security: Sensitive Google API files
+credentials.json
+token.json
+
+# Python environment and cache
+__pycache__/
+*.py[cod]
